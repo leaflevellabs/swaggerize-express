@@ -35,7 +35,7 @@
     "lodash": "^2.4.1",
     "minimist": "^0.2.0",
     "mkdirp": "^0.5.0",
-    "swaggerize-routes": "https://github.com/leaflevellabs/swaggerize-routes.git"
+    "swaggerize-routes": "git://github.com/leaflevellabs/swaggerize-routes.git#master"
   },
   "peerDependencies": {
     "express": "^4.0.0"
